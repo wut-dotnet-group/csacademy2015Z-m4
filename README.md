@@ -1,6 +1,8 @@
 Akademia C# cz. 4
 =================
 
+[![Join the chat at https://gitter.im/wut-dotnet-group/csacademy2015Z-m4](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wut-dotnet-group/csacademy2015Z-m4?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Na tym spotkaniu omówiliśmy:
 * podstawy programowania zdarzeniowego
 * zdarzenia w C# (event)

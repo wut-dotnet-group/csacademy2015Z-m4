@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MojeOkienko
 {
     /// <summary>
-    /// Reprezentuje sprawę w życiu.
+    /// Reprezentuje sprawę w tajnym miejscu.
     /// </summary>
    public class Sprawa
     {

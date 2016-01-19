@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MojeOkienko
 {
+    /// <summary>
+    /// Reprezentuje sprawę w życiu.
+    /// </summary>
    public class Sprawa
     {
         public DateTime Data { get; set; }
